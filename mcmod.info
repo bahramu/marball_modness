@@ -1,0 +1,18 @@
+[
+{
+  "name": "Marball Modness",
+  "description": "Allows players to construct TPS-friendly post-endgame machine factories with entertaining client-side visualisations.",
+  "authorList": ["bahramu"],
+  "credits": "Mojang, Forge and all the modpack platforms.",
+  "logoFile": "",
+  "screenshots": [],
+  "url": "",
+  "updateUrl": "",
+
+  "modid": "marballmodness",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "parent": "",
+  "dependencies": ["mod_MinecraftForge"]
+}
+]
